@@ -6,10 +6,10 @@ import './App.css';
 import NavBar from './components/NavBar';
 
 // Páginas
-import Home from '/src/pages/Home.jsx';
-import SalasPage from '/src/pages/SalasPage.jsx';
-import ReservasPage from '/src/pages/ReservasPage.jsx';
-import AdminPage from '/src/pages/AdminPage.jsx';
+import Home from './pages/Home.jsx';
+import SalasPage from './pages/SalasPage.jsx';
+import ReservasPage from './pages/ReservasPage.jsx';
+import AdminPage from './pages/AdminPage.jsx';
 
 function App() {
   return (
